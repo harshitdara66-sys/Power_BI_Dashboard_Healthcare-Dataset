@@ -38,7 +38,7 @@ The solution follows a real-world Business Intelligence workflow:
 
 > Add Screenshot
 
-![image alt]()
+![image alt](Healthcare Analytics Dashboard.png)
 
 ```
 
