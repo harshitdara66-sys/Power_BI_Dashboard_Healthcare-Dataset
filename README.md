@@ -38,7 +38,7 @@ The solution follows a real-world Business Intelligence workflow:
 
 > Add Screenshot
 
-![image alt](Healthcare Analytics Dashboard.png)
+![image alt](https://github.com/harshitdara66-sys/Power_BI_Dashboard_Healthcare-Dataset/blob/be1e776b71eacdc52af476f6ace321c173e10b47/Healthcare%20Analytics%20Dashboard.png)
 
 ```
 
@@ -49,7 +49,7 @@ The solution follows a real-world Business Intelligence workflow:
 > Add Screenshot
 
 ```
-images/Billing Analytics.png
+![image alt]()
 ```
 
 ---
